@@ -7,10 +7,12 @@ mkdir 02_vcf
 mkdir 03_vcf
 mkdir 10_align_script
 mkdir 12_filter
-mkdir 04_relernn_admixture
-mkdir 04_relernn_admixture/windows
+mkdir 04_relernn
 mkdir 05_trees100kbp
 mkdir 05_trees100kbp/windows
+mkdir 06_admixture
+mkdir 06_admixture/windows
+
 
 # move all the raw fastq data to the 00_fastq directory with a file transfer program
 
