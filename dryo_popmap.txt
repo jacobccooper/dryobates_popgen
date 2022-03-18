@@ -1,0 +1,16 @@
+Dendropicos_abyssinicus_EB034	1
+Dryobates_nuttallii_KU29815	2
+Dryobates_nuttallii_KU29816	3
+Dryobates_nuttallii_KU31337	4
+Dryobates_nuttallii_KU31343	5
+Dryobates_nuttallii_KU39796	6
+Dryobates_pubescens_KU11987	7
+Dryobates_pubescens_KU15939	8
+Dryobates_pubescens_KU32627	9
+Dryobates_pubescens_KU35810	10
+Dryobates_pubescens_KU7447	11
+Dryobates_scalaris_KU29797	12
+Dryobates_scalaris_KU30061	13
+Dryobates_scalaris_KU30064	14
+Dryobates_scalaris_KU30076	15
+Dryobates_scalaris_KU30077	16
