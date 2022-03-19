@@ -12,6 +12,7 @@ mkdir 05_trees100kbp
 mkdir 05_trees100kbp/windows
 mkdir 06_admixture
 mkdir 07_admixture_windows
+mkdir 07_admixture_windows/windows
 
 
 # move all the raw fastq data to the 00_fastq directory with a file transfer program
