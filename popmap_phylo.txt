@@ -1,0 +1,17 @@
+Individual	Number	PopName
+Dendropicos_abyssinicus_EB034	1	outgroup
+Dryobates_nuttallii_KU29815	2	nuttallii
+Dryobates_nuttallii_KU29816	3	nuttallii
+Dryobates_nuttallii_KU31337	4	nuttallii
+Dryobates_nuttallii_KU31343	5	nuttallii
+Dryobates_nuttallii_KU39796	6	nuttallii
+Dryobates_pubescens_KU11987	7	pubescens
+Dryobates_pubescens_KU15939	8	pubescens
+Dryobates_pubescens_KU32627	9	pubescens
+Dryobates_pubescens_KU35810	10	pubescens
+Dryobates_pubescens_KU7447	11	pubescens
+Dryobates_scalaris_KU29797	12	scalaris
+Dryobates_scalaris_KU30061	13	scalaris
+Dryobates_scalaris_KU30064	14	scalaris
+Dryobates_scalaris_KU30076	15	scalaris
+Dryobates_scalaris_KU30077	16	scalaris
